@@ -1,6 +1,6 @@
-# Titanic Survival Prediction (Beginner Project)
+# Titanic Survival Prediction competition (Beginner Project)
 
-This is my first Kaggle project. I followed the Titanic tutorial to learn how to:
+This is my first Kaggle project for titanic competition. I followed the Titanic tutorial to learn how to:
 - Clean data
 - Use machine learning (Logistic Regression)
 - Submit predictions to Kaggle
